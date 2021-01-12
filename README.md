@@ -5,6 +5,7 @@ This project allowed me to exercise my technical skills as I used Python to perf
 Despite analytics and machine learning being relatively new to all of us, we achieved a great deal of success in the competition, placing 3rd out of roughly 300 teams. We were fortunate enough to present our analysis, insights, and business recommendations to a panel of Humana analytics executives and Mays faculty.
 
 Press release: https://www.businesswire.com/news/home/20201119005919/en/
+
 Highlght video: https://www.youtube.com/watch?v=xQUThYb6sas
 
 Additional info: https://mays.tamu.edu/humana-tamu-analytics/.
